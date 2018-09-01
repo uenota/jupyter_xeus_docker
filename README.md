@@ -33,8 +33,8 @@ Jupyter kernel for C++.
 Unable to include `xplot/xfigure.hpp` with C++11 kernel.
 
 - Document  
-  https://github.com/QuantStack/xplot
-- GitHub  
   https://xplot.readthedocs.io/en/latest/
+- GitHub  
+  https://github.com/QuantStack/xplot
 - Examples  
   https://mybinder.org/v2/gh/QuantStack/xplot/stable?filepath=notebooks
